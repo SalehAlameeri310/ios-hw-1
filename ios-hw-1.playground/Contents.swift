@@ -19,8 +19,8 @@ var weightSum = myWeight + FriendWeight
 
 
 
-var bmi = myWeight * (height * height)
-
+let  bmi = myWeight / (height * height)
+ 
 /*
 - - - -
 # المطلوب الثاني
